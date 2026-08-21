@@ -42,7 +42,9 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-
+*.res
+*.in
+*.out
 
 /src/main/java/results/
 /src/main/java/testi/
