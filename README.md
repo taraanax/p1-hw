@@ -28,5 +28,3 @@ java Main
    (•̀ᴗ•́)و ̑̑
    compiling...
 </pre>
-
-povratne info zaželjene
