@@ -1,3 +1,5 @@
+package DN.DN04;
+
 import java.util.Scanner;
 
 public class DN04_63250068 {

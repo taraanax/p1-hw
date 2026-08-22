@@ -1,4 +1,4 @@
-package p1_vaje13.clanki;
+package vaje.p1_vaje13.clanki;
 import java.util.*;
 
 public class Test {

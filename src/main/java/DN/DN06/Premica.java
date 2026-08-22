@@ -1,4 +1,4 @@
-package DN_06;
+package DN.DN06;
 
 public class Premica {
 

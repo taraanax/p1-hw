@@ -1,3 +1,5 @@
+package DN.DN03;
+
 import java.util.Scanner;
 
 public class DN03_63250068 {
