@@ -1,5 +1,5 @@
 package vaje.p1_vaje13.clanki;
-import java.util.*;
+
 
 public class Avtor {
     private final String ime;
